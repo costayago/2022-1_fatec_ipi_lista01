@@ -10,7 +10,7 @@ public class Exercicio5 {
             "Informe o valor da base do retangulo"
         ));
 
-        a = b = Double.parseDouble(JOptionPane.showInputDialog(
+        a = Double.parseDouble(JOptionPane.showInputDialog(
             "Informe o valor da altura do retangulo"
         ));
 

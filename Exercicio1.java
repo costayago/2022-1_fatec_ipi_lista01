@@ -12,7 +12,7 @@ public class Exercicio1{
         ));
 
         q = Double.parseDouble(JOptionPane.showInputDialog(
-            "Digite a quantidade"
+            "Digite a quantidade para fazer a conversao"
         ));
 
         res = d * q;
